@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Salma 👋
 
 I'm a recent computer science graduate passionate about AI, data science. I'm excited to share my projects and contribute to the open-source community.
 
